@@ -153,6 +153,7 @@ MEDIA_ROOT = BASE_DIR / "media"
 CORS_ALLOWED_ORIGINS = [
 
     "http://localhost:5173",
+    "https://reethaelectricdreams.netlify.app",
   
 
 ]
@@ -189,3 +190,4 @@ CONTACT_OWNER_EMAIL = "nisha.reetha30@gmail.com"
 
 # Default "from" email
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
+
